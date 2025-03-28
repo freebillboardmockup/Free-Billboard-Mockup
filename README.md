@@ -33,7 +33,7 @@ Using resources like the Free Billboard Mockup collection from Mockup Daddy, you
 This repo is designed to be a starting point for your billboard design journey. Here’s how to make the most of it:
 
 ### Step 1: Explore the Files
-Check out the `sample-files` folder for placeholder images and text documents. These are free to use as inspiration or placeholders in your projects.
+Check out the sample-files folder for placeholder images and text documents. These are free to use as inspiration or placeholders in your projects.
 
 ### Step 2: Get Inspired
 Read through the design tips and ideas below to spark your creativity.
